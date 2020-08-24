@@ -1,4 +1,4 @@
-FROM devopsedu/webapp
+FROM edurekaProjVadivu/website
 
 ADD proj /var/www/html
 
