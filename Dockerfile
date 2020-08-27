@@ -1,4 +1,4 @@
-FROM edurekaProjVadivu/website
+FROM edurekaprojvadivu/website
 
 ADD proj /var/www/html
 
