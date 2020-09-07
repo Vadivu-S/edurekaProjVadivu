@@ -1,4 +1,4 @@
-FROM edurekaprojvadivu/website
+FROM vadivu9/projcert
 
 ADD proj /var/www/html
 
